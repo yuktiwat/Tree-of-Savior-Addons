@@ -4,6 +4,7 @@ Controls:
 - NUMPAD1: Enable game's graphics
 - NUMPAD2: Disable game's UI
 - NUMPAD3: Enable game's UI
+- Remember to set the game to Low Mode to increase even more the performance
 
 # Camera zoom
 Controls:

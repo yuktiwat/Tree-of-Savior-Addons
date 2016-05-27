@@ -1,6 +1,3 @@
-# Tree-of-Savior-Addons
-Addons for tree of savior
-
 # War Mode
 Controls:
 - NUMPAD0: Disable game's graphics

@@ -16,4 +16,3 @@ Each numpad has different levels of zoom.
 2. Click on View Raw
 3. Download it to "\SteamLibrary\SteamApps\common\TreeOfSavior\data"
 4. Make sure there is a ☃ character before the addon name.
-5. 
